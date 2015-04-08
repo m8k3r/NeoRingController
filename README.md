@@ -1,6 +1,8 @@
 # NeoRingController
 NeoRingController
 
+Video of the board: http://youtu.be/uZxWBR2LEZU
+
 The Adafruit NEO Pixel Library is required in order for the code to work.  Download the library here:
 https://github.com/adafruit/Adafruit_NeoPixel
 
