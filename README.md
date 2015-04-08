@@ -6,6 +6,10 @@ https://github.com/adafruit/Adafruit_NeoPixel
 
 Thank you to Adafruit for their tutorials... as much of the code I have provided is based on code that they provide.  Obviously the code has been modified to support my project... but all kudos go to Lady Ada and adafruit.com.
 
+The NEOPixel Ring that is used in this project is from Adafruit at:  http://www.adafruit.com/products/1586
+
+This ring fits in a 52mm to 67mm filter adapter (which I found on Amazon) which fits my macro lens perfectly on my Canon DSLR.  I plan on designing a 3D printed hot shoe design and putting it up on Thingiverse.com within the next few weeks.  The circuit can be fouud on www.123dcircuits.com... but is a work in progress.  I will post up the final circuit design, BOM and code once I know it can be replicated easily (actually, the code here is pretty much final... it's the BOM and board design that will change).
+
 Cheers!
 
 M8k3r
