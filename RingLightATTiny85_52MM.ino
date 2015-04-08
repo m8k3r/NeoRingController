@@ -1,8 +1,8 @@
 #include <Adafruit_NeoPixel.h>
 
 #define PIN 1   // LED Ring Pin
-#define POTB 3  // Brightness Pot
-#define POTC 2  // Color Selection Pot
+#define POTB 3  // Brightness Pot - MODIFIED to Pin 3 for the 123D Circuit board
+#define POTC 2  // Color Selection Pot - MODIFIED to Pin 2 for the 123D Circuit board
 
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(24, PIN, NEO_GRB + NEO_KHZ800);
 
