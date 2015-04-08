@@ -17,7 +17,7 @@ void setup() {
 void loop() {
   B = map(analogRead(POTB),0,1024,0,20);
   C = map(analogRead(POTC),0,1024,0,255);
-  if(lastreadB != B || lastreadC != C) {
+  if(lastreadB != B || lastreadC != C) { // Eliminate Flicker
     setcolor(C,B);
   }
 }
